@@ -770,6 +770,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   NewPlayerNameOnScene: {fileID: 1475542358}
+  BestPlayerText: {fileID: 844284509}
 --- !u!1 &1615350108
 GameObject:
   m_ObjectHideFlags: 0
